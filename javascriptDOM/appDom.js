@@ -4,3 +4,4 @@ elemento = document.head;
 elemento = document.title;
 console.log(elemento);
 
+
