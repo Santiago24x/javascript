@@ -1,0 +1,1 @@
+document.getElementById("caja").innerHTML = "hoy sali con taigeron nitsuka";
